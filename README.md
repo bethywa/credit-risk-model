@@ -48,4 +48,4 @@ When choosing a credit scoring model in a regulated environment, we must balance
 
 ### In a regulated financial context, interpretability and compliance often outweigh pure predictive performance, so careful consideration is required when choosing the model.
 
-
+    

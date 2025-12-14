@@ -46,6 +46,6 @@ When choosing a credit scoring model in a regulated environment, we must balance
 
 🛠️ Implementation: More Complex. It needs a sophisticated MLOps pipeline to manage training, deployment, and the consistent generation of explanations.
 
-## ✅ Conclusion for Our Project Context
-In the heavily regulated financial sector, interpretability and compliance are critical. Therefore, a simple, well-understood model like Logistic Regression with WoE is the strongly recommended choice to start with. Its transparency aligns perfectly with Basel II principles, making it easier to defend to regulators. A complex model like Gradient Boosting should only be considered if its performance improvement is substantial and can be successfully paired with a robust XAI framework to satisfy regulatory concerns.
+### In a regulated financial context, interpretability and compliance often outweigh pure predictive performance, so careful consideration is required when choosing the model.
+
 

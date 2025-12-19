@@ -84,10 +84,10 @@ This task focuses on transforming raw transaction data into meaningful features 
 - **Interaction Terms** between key variables
 
 
-# Task 4: Target Engineering
+# Target Engineering
 
-```markdown
-#  Proxy Target Variable Engineering
+
+# Proxy Target Variable Engineering
 
 ## Overview
 This task creates a binary target variable for credit risk prediction using RFM (Recency, Frequency, Monetary) analysis and K-means clustering.

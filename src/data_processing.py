@@ -275,7 +275,7 @@ def process_data(input_path, output_path=None):
 # For standalone execution
 if __name__ == "__main__":
     # Example usage
-    input_file = "../data/raw/transaction_data.csv"  # Update this path
+    input_file = "../data/raw/transaction_data.csv"  
     output_file = "../data/processed/features_engineered.csv"
     
     try:
